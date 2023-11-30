@@ -1,0 +1,202 @@
+#h2 {
+  border-radius: 5px;
+  border-color: #8a9eaa;
+  border-width: 2px;
+  padding: 6px;
+  font-size: large;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#playlist-title {
+  border-radius: 5px;
+  border-color: #8a9eaa;
+  border-width: 2px;
+  padding: 6px;
+  font-size: large;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#songs-number {
+  border-radius: 5px;
+  border-color: #8a9eaa;
+  border-width: 2px;
+  padding: 6px;
+  font-size: large;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.pro-container {
+  display: flex;
+  flex-direction: row;
+  font-family: Arial, sans-serif;
+  width: 80%;
+  height: auto;
+  margin: 25px auto;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* ===================================================================================================== */
+/* ===================================================================================================== */
+
+.dj-and-timeslot-container {
+  text-align: center;
+  background-color: rgb(214, 243, 243);
+  height: 120px;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.enter-dj {
+  background-color: #e7eff4;
+  width: 30%;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.enter-timeslot {
+  background-color: #e7eff4;
+  width: 30%;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.dj-timeslot-btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+/* ===================================================================================================== */
+/* ===================================================================================================== */
+
+.dj-container {
+  background-color: rgb(214, 243, 243);
+  height: 510px;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+.dj1, .dj2, .dj3, .dj4, .dj5{
+  cursor: pointer;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #3498db;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: large;
+  border-width: 2px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.delete-btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 6px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+/* ===================================================================================================== */
+/* ===================================================================================================== */
+
+
+.playlist-container {
+  background-color: rgb(214, 243, 243);
+  height: auto;
+  width: 600px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding-bottom: 5px;
+}
+
+.enter-song {
+  background-color: #e7eff4;
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-left: 70px;
+}
+
+.song-btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+/* ================================================================================================= */
+/* ================================================================================================= */
+
+.songs-div {
+  font-size: large;
+}
+
+.songs-list {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #3498db;
+  margin: 10px;
+  font-size: large;
+  border-width: 2px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.song-name-div {
+  width: 50%;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
+.song-delete-div {
+  width: 50%;
+  padding-top: 5px;
+}
+
+.song-delete-btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 8px;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+  margin-left: 225px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "year": "1965"
+    },
+    {
+        "title": "(I Can't Get No) Satisfaction",
+        "artist": "The Rolling Stones",
+        "year": "1965"
+    },
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "year": "1971"
+    },
+    {
+        "title": "What's Going On",
+        "artist": "Marvin Gaye",
+        "year": "1971"
+    },
+    {
+        "title": "Respect",
+        "artist": "Aretha Franklin",
+        "year": "1967"
+    },
+    {
+        "title": "Good Vibrations",
+        "artist": "The Beach Boys",
+        "year": "1966"
+    },
+    {
+        "title": "Johnny B. Goode",
+        "artist": "Chuck Berry",
+        "year": "1958"
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "year": "1968"
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "year": "1991"
+    },
+    {
+        "title": "What'd I Say",
+        "artist": "Ray Charles",
+        "year": "1959"
+    },
+    {
+        "title": "My Generation",
+        "artist": "The Who",
+        "year": "1965"
+    },
+    {
+        "title": "A Change Is Gonna Come",
+        "artist": "Sam Cooke",
+        "year": "1964"
+    },
+    {
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "year": "1965"
+    },
+    {
+        "title": "Blowin' in the Wind",
+        "artist": "Bob Dylan",
+        "year": "1963"
+    },
+    {
+        "title": "London Calling",
+        "artist": "The Clash",
+        "year": "1980"
+    },
+    {
+        "title": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": "1963"
+    },
+    {
+        "title": "Purple Haze",
+        "artist": "The Jimi Hendrix Experience",
+        "year": "1967"
+    },
+    {
+        "title": "Maybellene",
+        "artist": "Chuck Berry",
+        "year": "1955"
+    },
+    {
+        "title": "Hound Dog",
+        "artist": "Elvis Presley",
+        "year": "1956"
+    },
+    {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "year": "1970"
+    },
+    {
+        "title": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "year": "1975"
+    },
+    {
+        "title": "Be My Baby",
+        "artist": "The Ronettes",
+        "year": "1963"
+    },
+    {
+        "title": "In My Life",
+        "artist": "The Beatles",
+        "year": "1965"
+    },
+    {
+        "title": "People Get Ready",
+        "artist": "The Impressions",
+        "year": "1965"
+    },
+    {
+        "title": "God Only Knows",
+        "artist": "The Beach Boys",
+        "year": "1966"
+    },
+    {
+        "title": "(Sittin' On) The Dock of the Bay",
+        "artist": "Otis Redding",
+        "year": "1968"
+    },
+    {
+        "title": "Layla",
+        "artist": "Derek and the Dominos",
+        "year": "1970"
+    },
+    {
+        "title": "A Day in the Life",
+        "artist": "The Beatles",
+        "year": "1967"
+    },
+    {
+        "title": "Help!",
+        "artist": "The Beatles",
+        "year": "1965"
+    },
+    {
+        "title": "I Walk the Line",
+        "artist": "Johnny Cash",
+        "year": "1956"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "year": "1971"
+    },
+    {
+        "title": "Sympathy for the Devil",
+        "artist": "The Rolling Stones",
+        "year": "1968"
+    },
+    {
+        "title": "River Deep - Mountain High",
+        "artist": "Ike & Tina Turner",
+        "year": "1966"
+    },
+    {
+        "title": "You've Lost That Lovin' Feelin'",
+        "artist": "The Righteous Brothers",
+        "year": "1964"
+    },
+    {
+        "title": "Light My Fire",
+        "artist": "The Doors",
+        "year": "1967"
+    },
+    {
+        "title": "One",
+        "artist": "U2",
+        "year": "1991"
+    },
+    {
+        "title": "No Woman, No Cry",
+        "artist": "Bob Marley & The Wailers",
+        "year": "1975"
+    },
+    {
+        "title": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "year": "1969"
+    },
+    {
+        "title": "That'll Be the Day",
+        "artist": "Buddy Holly & The Crickets",
+        "year": "1957"
+    },
+    {
+        "title": "Dancing in the Street",
+        "artist": "Martha and the Vandellas",
+        "year": "1964"
+    },
+    {
+        "title": "The Weight",
+        "artist": "The Band",
+        "year": "1968"
+    },
+    {
+        "title": "Waterloo Sunset",
+        "artist": "The Kinks",
+        "year": "1968"
+    },
+    {
+        "title": "Tutti-Frutti",
+        "artist": "Little Richard",
+        "year": "1956"
+    },
+    {
+        "title": "Georgia On My Mind",
+        "artist": "Ray Charles",
+        "year": "1960"
+    },
+    {
+        "title": "Heartbreak Hotel",
+        "artist": "Elvis Presley",
+        "year": "1956"
+    },
+    {
+        "title": "Heroes",
+        "artist": "David Bowie",
+        "year": "1977"
+    },
+    {
+        "title": "All Along the Watchtower",
+        "artist": "The Jimi Hendrix Experience",
+        "year": "1968"
+    },
+    {
+        "title": "Bridge Over Troubled Water",
+        "artist": "Simon & Garfunkel",
+        "year": "1970"
+    },
+    {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "year": "1976"
+    },
+    {
+        "title": "The Tracks Of My Tears",
+        "artist": "Smokey Robinson and the Miracles",
+        "year": "1965"
+    },
+    {
+        "title": "The Message",
+        "artist": "Grandmaster Flash and the Furious Five",
+        "year": "1980"
+    },
+    {
+        "title": "When Doves Cry",
+        "artist": "Prince and The Revolution",
+        "year": "1984"
+    },
+    {
+        "title": "When A Man Loves A Woman",
+        "artist": "Percy Sledge",
+        "year": "1966"
+    },
+    {
+        "title": "Louie Louie",
+        "artist": "The Kingsmen",
+        "year": "1963"
+    },
+    {
+        "title": "Long Tall Sally",
+        "artist": "Little Richard",
+        "year": "1956"
+    },
+    {
+        "title": "Anarchy in the U.K.",
+        "artist": "Sex Pistols",
+        "year": "1976"
+    },
+    {
+        "title": "A Whiter Shade of Pale",
+        "artist": "Procol Harum",
+        "year": "1967"
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": "1983"
+    },
+    {
+        "title": "The Times They Are a-Changin'",
+        "artist": "Bob Dylan",
+        "year": "1964"
+    },
+    {
+        "title": "Let's Stay Together",
+        "artist": "Al Green",
+        "year": "1971"
+    },
+    {
+        "title": "Whole Lotta Shakin' Going On",
+        "artist": "Jerry Lee Lewis",
+        "year": "1957"
+    },
+    {
+        "title": "Bo Diddley",
+        "artist": "Bo Diddley",
+        "year": "1955"
+    },
+    {
+        "title": "For What It's Worth",
+        "artist": "Buffalo Springfield",
+        "year": "1967"
+    },
+    {
+        "title": "She Loves You",
+        "artist": "The Beatles",
+        "year": "1963"
+    },
+    {
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "year": "1968"
+    },
+    {
+        "title": "Redemption Song",
+        "artist": "Bob Marley & The Wailers",
+        "year": "1980"
+    },
+    {
+        "title": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "year": "1957"
+    },
+    {
+        "title": "Tangled Up in Blue",
+        "artist": "Bob Dylan",
+        "year": "1975"
+    },
+    {
+        "title": "Crying",
+        "artist": "Roy Orbison",
+        "year": "1961"
+    },
+    {
+        "title": "Walk On By",
+        "artist": "Dionne Warwick",
+        "year": "1964"
+    },
+    {
+        "title": "Papa's Got a Brand New Bag",
+        "artist": "James Brown",
+        "year": "1966"
+    },
+    {
+        "title": "California Girls",
+        "artist": "The Beach Boys",
+        "year": "1965"
+    },
+    {
+        "title": "Superstition",
+        "artist": "Stevie Wonder",
+        "year": "1973"
+    },
+    {
+        "title": "Summertime Blues",
+        "artist": "Eddie Cochran",
+        "year": "1958"
+    },
+    {
+        "title": "Whole Lotta Love",
+        "artist": "Led Zeppelin",
+        "year": "1969"
+    },
+    {
+        "title": "Strawberry Fields Forever",
+        "artist": "The Beatles",
+        "year": "1967"
+    },
+    {
+        "title": "Mystery Train",
+        "artist": "Elvis Presley",
+        "year": "1955"
+    },
+    {
+        "title": "I Got You (I Feel Good)",
+        "artist": "James Brown",
+        "year": "1966"
+    },
+    {
+        "title": "Mr. Tambourine Man",
+        "artist": "The Byrds",
+        "year": "1965"
+    },
+    {
+        "title": "You Really Got Me",
+        "artist": "The Kinks",
+        "year": "1964"
+    },
+    {
+        "title": "I Heard It Through the Grapevine",
+        "artist": "Marvin Gaye",
+        "year": "1968"
+    },
+    {
+        "title": "Blueberry Hill",
+        "artist": "Fats Domino",
+        "year": "1956"
+    },
+    {
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "artist": "The Beatles",
+        "year": "1965"
+    },
+    {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "year": "1983"
+    },
+    {
+        "title": "Crazy",
+        "artist": "Patsy Cline",
+        "year": "1961"
+    },
+    {
+        "title": "Thunder Road",
+        "artist": "Bruce Springsteen",
+        "year": "1975"
+    },
+    {
+        "title": "Ring of Fire",
+        "artist": "Johnny Cash",
+        "year": "1963"
+    },
+    {
+        "title": "My Girl",
+        "artist": "The Temptations",
+        "year": "1965"
+    },
+    {
+        "title": "California Dreamin'",
+        "artist": "The Mamas & The Papas",
+        "year": "1965"
+    },
+    {
+        "title": "In The Still Of The Nite",
+        "artist": "The Five Satins",
+        "year": "1956"
+    },
+    {
+        "title": "Suspicious Minds",
+        "artist": "Elvis Presley",
+        "year": "1969"
+    },
+    {
+        "title": "Blitzkrieg Bop",
+        "artist": "Ramones",
+        "year": "1976"
+    },
+    {
+        "title": "I Still Haven't Found What I'm Looking For",
+        "artist": "U2",
+        "year": "1987"
+    },
+    {
+        "title": "Good Golly",
+        "artist": "Little Richard",
+        "year": "1958"
+    },
+    {
+        "title": "Blue Suede Shoes",
+        "artist": "Carl Perkins",
+        "year": "1956"
+    },
+    {
+        "title": "Great Balls of Fire",
+        "artist": "Jerry Lee Lewis",
+        "year": "1957"
+    },
+    {
+        "title": "Roll Over Beethoven",
+        "artist": "Chuck Berry",
+        "year": "1956"
+    },
+    {
+        "title": "Love And Happiness",
+        "artist": "Al Green",
+        "year": "1972"
+    },
+    {
+        "title": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "year": "1970"
+    },
+    {
+        "title": "Crazy",
+        "artist": "Gnarls Barkley",
+        "year": "2006"
+    }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <title>ZAP Station</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/songs.css">
+</head>
+<body>
+
+  <%- include('./partials/header.ejs') %>
+
+  <div class="songs-container">
+    <h2 id="h2">Songs in database</h2>
+
+    <li class="song-list-1">
+      <div class="title">Title</div>
+      <div class="artist">Artist</div>
+      <div class="year">Year released</div>
+    </li>
+
+      <% data.forEach(song => { %>
+
+        <li class="song-list">
+          <div class="title"><%= song.title %></div>
+          <div class="artist"><%= song.artist%></div>
+          <div class="year"><%= song.year%></div>
+        </li>
+
+      <% }) %>
+
+
+  </div>
+
+  <%- include('./partials/footer.ejs') %>
+
+</body>
+</html>

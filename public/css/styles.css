@@ -1,0 +1,110 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.play {
+    border-radius: 50px;
+}
+
+/* Style the header top block */
+.header-top {
+    display: flex; /* Make the items inside the block horizontal */
+    justify-content: space-between; /* Space the items evenly */
+    align-items: center; /* Vertically center-align the items */
+    height: 80px; /* Set the block's height to 80px */
+}
+
+/* Style the play button */
+header button img {
+    width: 65px; /* Set the width to match the logo's width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #333;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Style navigation items (list items) */
+nav ul {
+    display: flex; /* Make the list items horizontal */
+}
+
+nav li {
+    margin: 0 20px;
+    position: relative; /* Positioning for dropdown */
+}
+
+/* Style links (anchor tags) */
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block; /* Ensure proper alignment with dropdown */
+}
+
+/* Style the footer */
+footer {
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Style navigation items (list items) */
+footer ul {
+    display: flex; /* Make the list items horizontal */
+    justify-content: center; /* Center-align the items */
+}
+
+footer li {
+    margin: 0 20px;
+}
+
+/* Style links (anchor tags) */
+footer a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+/* Style links on hover */
+footer a:hover {
+    background-color: #666;
+}
+
+/* Style dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 150px;
+    text-align: left;
+    z-index: 1; /* Ensure it appears above other content */
+    top: 100%; /* Position it below the anchor */
+    left: 0; /* Align it with the anchor's left edge */
+}
+
+/* Style dropdown items (list items inside the dropdown) */
+.dropdown-content li {
+    margin: 0;
+}
+
+/* Show the dropdown content when hovering over the parent list item */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown items on hover */
+.dropdown-content li:hover {
+    background-color: #666;
+}

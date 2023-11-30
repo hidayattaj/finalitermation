@@ -1,0 +1,18 @@
+Implementation of Peer Review Changes:
+In the iteration 5, I implemented my dj add section, dj display section and dj playlist section in the middle of the page. Some of my classmates suggested that it would be better to use all my page space efficiently. Before, my page had empty space in the right side and the left side. I used two divs to separate my page equally in the left half and the right half. I placed dj add section and display section in the left div and dj playlist section in the right div.
+
+
+Unified System Presentation:
+In the early planning phase, me and my group partner decided to have a header section and footer section and rest of the material will be in the middle of these two sections. In the header, there is logo of the radio station and menu bar for selecting different pages. In the footer we used same design as the menu bar for consistent look for all the pages. I used the ejs partials for implementing the header and footer sections.
+
+
+Comparison and Justification:
+In the early phase, we have a live radio button in the top right corner where it was supposed to play live radio but implementing it was complicated as we thought, so we omitted the live radio button. Second we had planned to include different genres of songs in the footer section and it also was too hard to implement all the different functions and also we had to store every genre of songs in the database so we also scratched that idea.
+
+
+Common Database Usage:
+After connecting the website to the database, I saved all the songs in the database and then in the server.js file I used the find query to fetch all the songs from the database. Then I used the ejs for each loop to cycle through every song and display all the songs to the page. In the producer's search function, I used the fetch function to search for a specific song in the database if the query was successfull I passed the song into the producer route to display it in the producer's page.
+
+
+Data Integration Across Screens:
+In the menu bar clicking on the songs will fetch all the songs from the database and display it. Every dj has its own playlist, searching for song and adding that specific song to its playlist. If the song is in the database then the operation is successfull and the song is added to the dj's playlist. The dj's playlist are saved even after clicking on the different page and then coming back to the producer's page.

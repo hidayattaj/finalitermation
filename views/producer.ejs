@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<head>
+  <title>ZAP Station</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/producer.css">
+  <script type="text/javascript" defer src="/js/producer.js"></script>
+  <style>
+    .div-left{
+      width: 50%;
+    }
+
+    .div-right{
+      width: 50%;
+    }
+  </style>
+</head>
+<body>
+
+  <%- include('./partials/header.ejs') %>
+
+  <div class="pro-container">
+
+    <!-- ======================================================================================== -->
+    <!-- ======================================================================================== -->
+
+
+    <div class="div-left">
+      
+      <div class="dj-and-timeslot-container">
+        <h2 id="h2">Enter DJ info</h2>
+        <input type="text" class="enter-dj" placeholder="Enter Dj">
+        <input type="text" class="enter-timeslot" placeholder="Enter timeslot">
+        <button class="dj-timeslot-btn" onclick="info_entered()">Add</button>
+      </div>
+  
+      <!-- ======================================================================================== -->
+      <!-- ======================================================================================== -->
+  
+  
+      
+      <div class="dj-container">
+        <h2 id="h2">Current DJs</h2>
+      </div>
+
+
+
+    </div>
+
+
+    <div class="div-right">
+      
+      <div class="playlist-container">
+        <h2 id="playlist-title">-----</h2>
+  
+          <input type="text" class="enter-song" placeholder="Search and Add song">
+          <button class="song-btn" onclick="song_entered(this)">Add</button>
+  
+  
+        <h2 id="songs-number">-----</h2>
+  
+  
+  
+        <div class="songs-div"></div>
+  
+  
+  
+        
+  
+  
+      </div>
+
+    </div>
+
+
+  </div>
+
+  <%- include('./partials/footer.ejs') %>
+
+</body>
+</html>
